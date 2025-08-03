@@ -62,8 +62,7 @@ source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 3️⃣ Install dependencies
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 4️⃣ Download YOLOv8 model weights
 We used the YOLOv8s (small) model from Ultralytics:
